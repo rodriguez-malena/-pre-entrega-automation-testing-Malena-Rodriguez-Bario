@@ -2,7 +2,7 @@
 
 ## Propósito del proyecto
 
-Automatizar pruebas funcionales del sitio [saucedemo.com](https://www.saucedemo.com/) usando Selenium y pytest. Las pruebas cubren el login, la navegación por el catálogo y la interacción con el carrito de compras.
+Automatizar pruebas funcionales del sitio web [saucedemo.com](https://www.saucedemo.com/) usando Selenium y pytest. Las pruebas cubren el login, la navegación por el catálogo y la interacción con el carrito de compras.
 
 
 ## Tecnologías utilizadas
