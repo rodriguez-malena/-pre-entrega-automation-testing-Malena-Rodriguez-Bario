@@ -7,11 +7,11 @@ Automatizar pruebas funcionales del sitio web [saucedemo.com](https://www.sauced
 
 ## Tecnologías utilizadas
 
-- **Python 3**: lenguaje de programación.
-- **Selenium WebDriver**: automatiza el navegador.
-- **pytest**: framework para escribir y ejecutar las pruebas.
-- **pytest-html**: genera reportes HTML con los resultados.
-- **Google Chrome**: navegador donde se ejecutan las pruebas.
+- **Python 3**
+- **Selenium WebDriver**
+- **pytest**
+- **pytest-html**
+- **Google Chrome**
 
 ## Estructura del proyecto
 
